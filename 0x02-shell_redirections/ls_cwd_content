@@ -1,0 +1,15 @@
+total 48
+drwxrwxr-x 2 godwin godwin 4096 E-O  5 12:56 .
+drwxrwxr-x 6 godwin godwin 4096 E-O  4 22:02 ..
+-rwxrwxr-x 1 godwin godwin   33 E-O  5 10:04 0-hello_world
+-rwxrwxr-x 1 godwin godwin   40 E-O  5 12:33 10-no_more_js
+-rwxrwxr-x 1 godwin godwin   28 E-O  5 10:39 1-confused_smiley
+-rwxrwxr-x 1 godwin godwin   29 E-O  5 10:43 2-hellofile
+-rwxrwxr-x 1 godwin godwin   40 E-O  5 10:47 3-twofiles
+-rwxrwxr-x 1 godwin godwin   35 E-O  5 10:54 4-lastlines
+-rwxrwxr-x 1 godwin godwin   35 E-O  5 11:00 5-firstlines
+-rwxrwxr-x 1 godwin godwin   38 E-O  5 11:11 6-third_line
+-rwxrwxr-x 1 godwin godwin    0 E-O  5 11:52 7-file
+-rwxrwxr-x 1 godwin godwin   39 E-O  5 12:55 8-cwd_state
+-rw-rw-r-- 1 godwin godwin    0 E-O  5 12:56 ls_cwd_content
+-rw-rw-r-- 1 godwin godwin   15 E-O  5 10:03 README.md
